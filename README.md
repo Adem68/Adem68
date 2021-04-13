@@ -21,6 +21,9 @@
 ![Windows](https://img.shields.io/badge/Windows-05122A?style=flat&logo=windows)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### 📊 GitHub Analytics
 
 <p align="center">
