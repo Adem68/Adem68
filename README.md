@@ -22,36 +22,6 @@
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-67-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-114278%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.97% 
-🌆 Daytime    84 commits     ███████░░░░░░░░░░░░░░░░░░   27.91% 
-🌃 Evening    127 commits    ██████████░░░░░░░░░░░░░░░   42.19% 
-🌙 Night      66 commits     █████░░░░░░░░░░░░░░░░░░░░   21.93%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-
 <!--END_SECTION:waka-->
 
 ### 📊 GitHub Analytics
