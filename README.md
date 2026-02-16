@@ -33,7 +33,3 @@
 <a href="https://stackoverflow.com/users/13600048/adem" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" alt="stackoverflow" /></a>
 <img align="center" src="https://komarev.com/ghpvc/?username=Adem68&style=flat" alt="profile views" /></a>
 </p>
-
-### 🎧 Now Playing
-
-[<p align="center"> <img src="https://spotify-readme-stat.vercel.app/api/run-spotify-status.py" alt="Playing Now" width="600" /></p>](https://open.spotify.com/user/21dlgyscmbnmydlozypr7hp4i)
